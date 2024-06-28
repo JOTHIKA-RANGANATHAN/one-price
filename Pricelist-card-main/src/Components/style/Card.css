@@ -1,0 +1,9 @@
+.body{
+    background-color: #228FEA;
+}
+li{
+    list-style-type: none;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
